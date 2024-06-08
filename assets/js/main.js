@@ -262,7 +262,3 @@
 
 })()
 
-//fetch method to call api
-//HTML - script - give path of js file with file name
-var name = 'Hrutik';
-//
